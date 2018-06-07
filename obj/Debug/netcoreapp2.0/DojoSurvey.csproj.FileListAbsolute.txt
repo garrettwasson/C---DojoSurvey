@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\bin\Debug\netcoreapp2.0\DojoSurvey.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.csprojResolveAssemblyReference.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\DojoSurvey\obj\Debug\netcoreapp2.0\DojoSurvey.pdb

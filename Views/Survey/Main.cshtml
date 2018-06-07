@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Main</title>
+</head>
+<body>
+    <form action="/results" method="post">
+        <input type="text" name="ThisName" placeholder="Name">
+        <label for="DojoLocation">Dojo Location</label>
+        <select name="DojoLocation">
+            <option>Mountain View</option>
+            <option>Seattle</option>
+            <option>Los Angeles</option>
+            <option>Dallas</option>
+            <option>*Other*</option>
+        </select>
+        <label for="FavoriteLanguage">Favorite Language</label>
+        <select name="FavoriteLanguage">
+            <option>HTML</option>
+            <option>CSS</option>
+            <option>JavaScript</option>
+            <option>Python</option>
+            <option>C#</option>
+        </select>
+        <label for="Comments">Comments?</label>
+        <textarea name="TheseComments" cols="25" rows="1" placeholder="(Optional)"></textarea>
+        <input type="submit">
+    </form>
+</body>
+</html>
